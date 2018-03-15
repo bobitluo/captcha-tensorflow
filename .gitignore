@@ -6,3 +6,6 @@ dist/
 MANIFEST
 build/
 #__init__.py
+data/workspace
+data/model
+data/mnist_logs
