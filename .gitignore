@@ -9,3 +9,4 @@ build/
 data/workspace
 data/model
 data/mnist_logs
+data/captcha-tensorflow.log
